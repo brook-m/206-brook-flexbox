@@ -117,7 +117,7 @@ footer {
 }
 
 header {
-    background-color: #1985A1;
+  background-color: #1985A1;
 }
 
 main {
@@ -149,7 +149,6 @@ main {
   display: flex;
   justify-content: space-between;
   flex-flow: row wrap;
-  align-items: ;
 }
 
 .div-1, .div-2, .div-3 {
